@@ -1,0 +1,45 @@
+
+
+.event{
+    margin-left: 40%;
+    padding-bottom: 2%;
+    margin-top: -5%;
+}
+
+.Property{
+    margin-left: 40%;
+    
+    border: greenyellow;
+}
+
+.inter{
+    
+ margin-left: 5%;
+ position: relative;
+}
+
+.ano{
+    margin-left: 5%;
+}
+
+.all{
+    margin-left: 40%;
+}
+
+
+table {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+thead{
+    border: 1px solid black;
+}
+
+.d{
+    margin-left: 30%;
+}

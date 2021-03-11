@@ -1,0 +1,16 @@
+*******************11/3/21********************
+1.type of routing like wild card,404 and others assignment
+2. blank string url checking
+3. property checking likes redirectTo,etc 
+4. another module loading with another module file and route file
+5. bootstraping process
+6. lifecycle 
+7. how angular works
+8.javascript bootstraping process
+9. built in timing of angular and where which file works and how
+10. zone.js file gives the change detection
+11. <router-outlet></router-outlet>
+12. router in button 
+13. template design should be used
+14.route guard(info)
+15.http client
