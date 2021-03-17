@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTQwFPNG6oZ2Fqye+zid1gwGMnaEbsSFhZ3l3tmvtoXvUFWukx5BN61h0U4PUiLQdfdAPtNPRMUxvUWCbvhaYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahula.singh\\source\\repos\\WebApiFinalAssignment\\API.BusinessEntities\\API.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

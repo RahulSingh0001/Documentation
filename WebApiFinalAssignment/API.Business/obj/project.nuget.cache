@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUd9rNt7z5R7bfDBVVviVsYxkbdv6Zf/q5L5L3rEmJYBTt2BYHoJOPI9Y/QZimu0qy2bUpKOfOKbYDGIYl+Ykw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahula.singh\\source\\repos\\WebApiFinalAssignment\\API.Business\\API.BAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

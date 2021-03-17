@@ -1,0 +1,8 @@
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\bin\Debug\netstandard2.0\API.Data.deps.json
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\bin\Debug\netstandard2.0\API.Data.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\bin\Debug\netstandard2.0\API.Data.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\obj\Debug\netstandard2.0\API.Data.AssemblyInfoInputs.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\obj\Debug\netstandard2.0\API.Data.AssemblyInfo.cs
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\obj\Debug\netstandard2.0\API.Data.csproj.CoreCompileInputs.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\obj\Debug\netstandard2.0\API.Data.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Data\obj\Debug\netstandard2.0\API.Data.pdb

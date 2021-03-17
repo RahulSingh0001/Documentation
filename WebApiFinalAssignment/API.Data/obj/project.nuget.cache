@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "opB9tfO1CFFw8KuhyeGoKQuSv7sV0YuFeahUMgAmR+5OzpGuIxJwVfjMFIubZK8FJykqFT6gtRSw5wwAPY9Uuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahula.singh\\source\\repos\\WebApiFinalAssignment\\API.Data\\API.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahula.singh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

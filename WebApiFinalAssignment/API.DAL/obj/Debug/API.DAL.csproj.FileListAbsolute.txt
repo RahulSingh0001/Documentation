@@ -1,0 +1,14 @@
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\obj\Debug\API.DAL.csprojAssemblyReference.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\obj\Debug\API.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\API.DAL.dll.config
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\API.DAL.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\API.DAL.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\API.Data.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\EntityFramework.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\API.Data.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\EntityFramework.xml
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\obj\Debug\API.DAL.csproj.CopyComplete
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\obj\Debug\API.DAL.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.DAL\obj\Debug\API.DAL.pdb

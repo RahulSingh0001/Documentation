@@ -1,0 +1,17 @@
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.csprojAssemblyReference.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.AssemblyInfoInputs.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.AssemblyInfo.cs
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.csproj.CoreCompileInputs.cache
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.BAL.deps.json
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.BAL.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.BAL.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.DAL.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.Data.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.DAL.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.DAL.dll.config
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\API.Data.pdb
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.csproj.CopyComplete
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.dll
+C:\Users\rahula.singh\source\repos\WebApiFinalAssignment\API.Business\obj\Debug\netstandard2.0\API.BAL.pdb

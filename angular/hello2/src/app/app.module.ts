@@ -10,7 +10,7 @@ import { CounterComponent } from './counter/counter.component';
 import { HeropipeComponent } from './heropipe/heropipe.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { MyTestServiceService } from './my-test-service.service';
-import { ViewChildComponent } from './view-child/view-child.component';
+// import { ViewChildComponent } from './view-child/view-child.component';
 import { HomeComponent } from './home/home.component';
 
 @NgModule({
@@ -19,7 +19,7 @@ import { HomeComponent } from './home/home.component';
     CounterComponent,
     HeropipeComponent,
     AboutUsComponent,
-    ViewChildComponent,
+    // ViewChildComponent,
     HomeComponent,
   ],
   imports: [

@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-heropipe',
   template: `
-  <p>The hero's birthday is {{ birthday | date:format }}</p>
+  <!-- <p>The hero's birthday is {{ birthday | date:format }}</p> -->
   <button (click)="toggleFormat()">Toggle Format</button>
 `,
   styleUrls: ['./heropipe.component.css']
